@@ -1,3 +1,7 @@
+title: #CABLE MANAGEMENT
+date: 2018-04-24
+
+
 ##Cable Box | Wire Bin
 
 	This is a cable organizer that covers up the messy surge protector/spike buster which often lies on your computer desk or behind the TV

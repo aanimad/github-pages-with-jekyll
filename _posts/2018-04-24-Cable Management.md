@@ -1,8 +1,8 @@
-title: #CABLE MANAGEMENT
+title: CABLE MANAGEMENT
 date: 2018-04-24
 
 
-##Cable Box | Wire Bin
+## Cable Box | Wire Bin
 
 	This is a cable organizer that covers up the messy surge protector/spike buster which often lies on your computer desk or behind the TV
 	This simple to install & stunning looking box makes your space neat and tidy. It also streamlines the cables coming in and going out of the surge protector.
@@ -14,7 +14,7 @@ date: 2018-04-24
 	It neatly encloses all types of AC Adapters, Chargers, USB Hubs, Excess wires and cables, Spike busters/Power strips of max 4 sockets.
 	
   
-##Cable Drop | Wire Trap
+## Cable Drop | Wire Trap
 	
   Do you fumble while picking up the AUX cable or USB cable in your car? Are you the person who wants the USB cables in your reach when you work?
 	Then this one is definitely for you!

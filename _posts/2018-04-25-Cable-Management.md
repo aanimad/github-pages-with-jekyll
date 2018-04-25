@@ -1,6 +1,7 @@
 ---
 title: CABLE MANAGEMENT
 date: 2018-04-25
+permalink: /title.html
 ---
 
 ## Cable Box | Wire Bin
